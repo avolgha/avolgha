@@ -2,7 +2,7 @@
 
 I'm a student from Germany and I like to code.
 
-My favourite languages are `Java`, `JavaScript` (and a lot `Typescript`) and `Kotlin`. Also I dont like `C`/`C++` (but I use it lol) 😉
+My favourite languages are `Java`, `JavaScript` (and a lot `Typescript`), `Kotlin` and, although the syntax is very much shit, `C++` 😉
 
 Idk what I could or should say here but yeah...
 
